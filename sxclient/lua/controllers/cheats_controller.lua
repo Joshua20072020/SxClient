@@ -20,7 +20,7 @@ config.isKBEnabled = false
 
 settings = {}
 settings.isMobKillaura = true
-settings.killauraDistance = 10
+settings.killauraDistance = 15
 
 local MTN = {}
 MTN.isAutoWalkEnabled = "AutoWalk"
